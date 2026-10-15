@@ -9,7 +9,7 @@ It is rule-based on purpose: every account lands where the rules say, with a one
 **Claude Code:** copy the skill folder into your skills directory.
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/velazsu-23/account-prioritization-skill.git
 cp -R account-prioritization-skill/account-prioritization ~/.claude/skills/
 ```
 
